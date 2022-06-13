@@ -17,7 +17,7 @@
 <br>
 <h2 align=center>:hatched_chick: Contact :hatched_chick:</h2>
 <div align=center>
-  <a href="daun32174@gmail.com"/> img src="https://img.shields.io/badge/-Email-%23EA4335?logo=Gmail&logoColor=white"/>      
+  <a href="daun32174@gmail.com"/> <img src="https://img.shields.io/badge/-Email-%23EA4335?logo=Gmail&logoColor=white"/>      
 </div>
 <br>
 <br>
