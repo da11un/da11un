@@ -8,13 +8,16 @@
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>     
   <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"/>     
   <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white"/>       
+  <img src="https://img.shields.io/badge/-Spring-%236DB33F?logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white">
 </div>
 <br>
 <br>
 <br>
 <h2 align=center>:hatched_chick: Contact :hatched_chick:</h2>
 <div align=center>
-  <img src="https://img.shields.io/badge/-Email-%23EA4335?logo=Gmail&logoColor=white"/>      
+  <a href="daun32174@gmail.com" img src="https://img.shields.io/badge/-Email-%23EA4335?logo=Gmail&logoColor=white"/>      
 </div>
 <br>
 <br>
